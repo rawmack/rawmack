@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I’m **Rawmack** — a builder focused on creating practical, user-first software.
+I’m **Rawmack** — I'm a builder focused on creating practical, user-first software.
 
 - 🧠 Background: Product-minded developer who enjoys turning ideas into useful, reliable experiences
 - 🔭 Currently working on: Projects at the intersection of **automation**, **AI-assisted workflows**, and **developer tooling**
