@@ -1,24 +1,40 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Rawmack%20👋&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Raj%20Narayan%20Sikder%20👋&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff)
 
 </div>
 
 ## 💫 About Me
 
-I’m **Rawmack** — I'm a builder focused on creating practical, user-first software.
+I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design undergraduate at **SUTD** (Class of 2027), focused on building practical AI and software systems for real-world use.
 
-- 🧠 Background: Product-minded developer who enjoys turning ideas into useful, reliable experiences
-- 🔭 Currently working on: Projects at the intersection of **automation**, **AI-assisted workflows**, and **developer tooling**
-- 🌱 Currently exploring: Better system design, performance, and clean architecture patterns
-- 🤝 Open to: Collaboration on impactful products and interesting open-source work
+- 🎓 **Education:** B.Eng. (Computer Science and Design, Honours), Singapore University of Technology and Design (SUTD)
+- 🏅 **Scholarships:** A C Toh – SUTD Scholarship, SUTD Global Merit Scholarship
+- 🤖 **Recent focus:** Vision-Language Models (VLMs), edge AI deployment, model optimization, and multimodal systems
+- 🔭 **Currently working on:** AI/ML systems, full-stack product builds, and developer-facing automation workflows
+- 🤝 **Open to:** Internships, research collaborations, and impactful product engineering work
 
 ## 🚀 What I Love Working With
 
-- Building full-stack applications end to end
-- Designing APIs and backend systems
-- Shipping fast iterations with a strong UX focus
-- Using AI tools to improve developer productivity
+- Edge AI and applied ML (benchmarking, fine-tuning, inference optimization)
+- Full-stack product development from idea to deployment
+- System design for scalable, maintainable software
+- Turning user and business requirements into production-ready features
+
+## 🧪 Experience Highlights
+
+- **AI/ML Engineering Intern — ST Engineering (Advanced Networks and Sensors)**  
+	Built a unified VLM benchmarking workflow for edge deployment (Sakura-II NPU, Raspberry Pi/Mini PC), including accuracy, throughput, TTFT, and memory profiling.
+- **Deep Learning Research Intern — Panasonic R&D Center Singapore**  
+	Researched and optimized video enhancement models for edge deployment with quantization and chipset-aware performance tuning.
+- **IoT & Embedded Software Intern — NexSwap**  
+	Developed decentralized Bluetooth networking on ESP32 using C++ with UUID-based multiplexing and RSSI-aware filtering.
+
+## 🛠️ Current Project Interests
+
+- VLM evaluation and robust prompt/inference workflows
+- Agentic AI pipelines and multimodal summarization
+- Applied full-stack products (React/TypeScript + Node/Express + MongoDB)
 
 ## 💻 Tech Stack
 
@@ -26,22 +42,38 @@ I’m **Rawmack** — I'm a builder focused on creating practical, user-first so
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Data
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge)
+
+### AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📈 GitHub Snapshot
 
@@ -54,10 +86,10 @@ I’m **Rawmack** — I'm a builder focused on creating practical, user-first so
 
 ## 📫 Contact
 
-- Email: **hello@yourdomain.com**
-- LinkedIn: **https://linkedin.com/in/your-handle**
-- X/Twitter: **https://x.com/your-handle**
+- Mobile: **+65 86728925**
+- Email: **1008002@mymail.sutd.edu.sg**
+- LinkedIn: **https://www.linkedin.com/in/raj-sikder-a935311a9**
 
 ---
 
-_Pinned projects coming soon._
+_Pinned projects coming soon — curating my most relevant AI/ML and full-stack work._
