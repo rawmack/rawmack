@@ -108,10 +108,6 @@ I’m a Computer Science and Design undergraduate at **SUTD** (Class of 2027), f
 	</tr>
 </table>
 
-> Replace any placeholder image by changing the `src` value in each `<img ... />` tag.
-> You can use either a hosted URL or a local file path like `./assets/work-1.png`.
-
-
 ## 💻 Tech Stack
 
 ### Languages
