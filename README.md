@@ -4,7 +4,7 @@
 
 </div>
 
-## [Caution: This Site is Under Progress]
+## [Caution: This ReadMe is Under Progress]
 ## 💫 About Me
 
 I’m a Computer Science and Design undergraduate at **SUTD** (Class of 2027), focused on building practical AI and software systems for real-world use.
