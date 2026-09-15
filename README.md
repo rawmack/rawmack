@@ -20,7 +20,96 @@ I’m a Computer Science and Design undergraduate at **SUTD** (Class of 2027), f
 
 ## 🛠️ Work Experiences
 
+<table>
+	<tr>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Work+Image+1" alt="Work 1 placeholder" />
+			<h3><strong>AI/ML Engineering Intern</strong></h3>
+			<h4>ST Engineering (Advanced Networks and Sensors)</h4>
+			<p><strong>Period:</strong> Jun 2026 – Sep 2026</p>
+			<p>Built a unified VLM benchmarking + edge inference workflow, with profiling across accuracy, throughput, TTFT, and memory usage.</p>
+		</td>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Work+Image+2" alt="Work 2 placeholder" />
+			<h3><strong>Deep Learning Research Intern</strong></h3>
+			<h4>Panasonic R&amp;D Center Singapore</h4>
+			<p><strong>Period:</strong> Sep 2025 – Jan 2026</p>
+			<p>Researched and optimized video augmentation/super-resolution models for edge deployment with quantization and hardware-aware validation.</p>
+		</td>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Work+Image+3" alt="Work 3 placeholder" />
+			<h3><strong>IoT &amp; Embedded Software Intern</strong></h3>
+			<h4>NexSwap</h4>
+			<p><strong>Period:</strong> Feb 2025 – Apr 2025</p>
+			<p>Built decentralized Bluetooth networking on ESP32 with UUID multiplexing and RSSI-based filtering for scalable event-device communication.</p>
+		</td>
+	</tr>
+</table>
+
 ## 🛠️ Project Directory
+
+<table>
+	<tr>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+1" alt="Project 1 placeholder" />
+			<h3>Project 1</h3>
+			<p><strong>Type:</strong> Academic Full-Stack Project</p>
+			<p><strong>Stack:</strong> React, TypeScript, Node.js, Express.js, MongoDB</p>
+			<p>Desc</p>
+		</td>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+2" alt="Project 2 placeholder" />
+			<h3>Project 2</h3>
+			<p><strong>Type:</strong> Android App Project</p>
+			<p><strong>Stack:</strong> Java, Firebase, MVVM, Figma</p>
+			<p>Desc</p>
+		</td>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+3" alt="Project 3 placeholder" />
+			<h3>Project Tile 3</h3>
+			<p><strong>Status:</strong> Add details</p>
+			<p><strong>Stack:</strong> Add stack</p>
+			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+4" alt="Project 4 placeholder" />
+			<h3>Project Tile 4</h3>
+			<p><strong>Status:</strong> Add details</p>
+			<p><strong>Stack:</strong> Add stack</p>
+			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+		</td>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+5" alt="Project 5 placeholder" />
+			<h3>Project Tile 5</h3>
+			<p><strong>Status:</strong> Add details</p>
+			<p><strong>Stack:</strong> Add stack</p>
+			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+		</td>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+6" alt="Project 6 placeholder" />
+			<h3>Project Tile 6</h3>
+			<p><strong>Status:</strong> Add details</p>
+			<p><strong>Stack:</strong> Add stack</p>
+			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="33%" valign="top">
+			<img src="https://placehold.co/600x320?text=Add+Project+Image+7" alt="Project 7 placeholder" />
+			<h3>Project Tile 7</h3>
+			<p><strong>Status:</strong> Add details</p>
+			<p><strong>Stack:</strong> Add stack</p>
+			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+		</td>
+		<td width="33%" valign="top"></td>
+		<td width="33%" valign="top"></td>
+	</tr>
+</table>
+
+> Replace any placeholder image by changing the `src` value in each `<img ... />` tag.
+> You can use either a hosted URL or a local file path like `./assets/work-1.png`.
 
 
 ## 💻 Tech Stack
