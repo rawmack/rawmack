@@ -1,18 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Raj%20Narayan%20Sikder%20👋&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Raj%20👋&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff)
 
 </div>
 
 ## 💫 About Me
 
-I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design undergraduate at **SUTD** (Class of 2027), focused on building practical AI and software systems for real-world use.
+I’m a Computer Science and Design undergraduate at **SUTD** (Class of 2027), focused on building practical AI and software systems for real-world use.
 
-- 🎓 **Education:** B.Eng. (Computer Science and Design, Honours), Singapore University of Technology and Design (SUTD)
-- 🏅 **Scholarships:** A C Toh – SUTD Scholarship, SUTD Global Merit Scholarship
-- 🤖 **Recent focus:** Vision-Language Models (VLMs), edge AI deployment, model optimization, and multimodal systems
 - 🔭 **Currently working on:** AI/ML systems, full-stack product builds, and developer-facing automation workflows
-- 🤝 **Open to:** Internships, research collaborations, and impactful product engineering work
+- 🤝 **Open to:** Full-time Roles
 
 ## 🚀 What I Love Working With
 
@@ -21,20 +18,10 @@ I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design under
 - System design for scalable, maintainable software
 - Turning user and business requirements into production-ready features
 
-## 🧪 Experience Highlights
+## 🛠️ Work Experiences
 
-- **AI/ML Engineering Intern — ST Engineering (Advanced Networks and Sensors)**  
-	Built a unified VLM benchmarking workflow for edge deployment (Sakura-II NPU, Raspberry Pi/Mini PC), including accuracy, throughput, TTFT, and memory profiling.
-- **Deep Learning Research Intern — Panasonic R&D Center Singapore**  
-	Researched and optimized video enhancement models for edge deployment with quantization and chipset-aware performance tuning.
-- **IoT & Embedded Software Intern — NexSwap**  
-	Developed decentralized Bluetooth networking on ESP32 using C++ with UUID-based multiplexing and RSSI-aware filtering.
+## 🛠️ Project Directory
 
-## 🛠️ Current Project Interests
-
-- VLM evaluation and robust prompt/inference workflows
-- Agentic AI pipelines and multimodal summarization
-- Applied full-stack products (React/TypeScript + Node/Express + MongoDB)
 
 ## 💻 Tech Stack
 
@@ -44,6 +31,14 @@ I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design under
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -59,13 +54,6 @@ I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design under
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge)
 
-### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,14 +63,6 @@ I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design under
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📈 GitHub Snapshot
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rawmack&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawmack&layout=compact&theme=transparent&hide_border=true)
-
-</div>
 
 ## 📫 Contact
 
@@ -90,6 +70,3 @@ I’m **Raj Narayan Sikder** (`rawmack`) — a Computer Science and Design under
 - Email: **1008002@mymail.sutd.edu.sg**
 - LinkedIn: **https://www.linkedin.com/in/raj-sikder-a935311a9**
 
----
-
-_Pinned projects coming soon — curating my most relevant AI/ML and full-stack work._
