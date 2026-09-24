@@ -150,7 +150,7 @@ I’m a Final Year **CS** student @ **SUTD**, interested in building AI and soft
 ## 📫 Contact
 For **enquiries** or my **resume/CV**, please contact me via:
 
-- Mobile: **+65 86728925**
+- Mobile/WhatsApp: **+65 86728925**
 - Email: **1008002@mymail.sutd.edu.sg** 
 - LinkedIn: **https://www.linkedin.com/in/raj-sikder-a935311a9**
 
