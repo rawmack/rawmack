@@ -7,42 +7,50 @@
 ## [Caution: This ReadMe is Under Progress]
 ## 💫 About Me
 
-I’m a Computer Science and Design undergraduate at **SUTD** (Class of 2027), focused on building practical AI and software systems for real-world use.
+I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI and software systems for real-world use.
 
-- 🔭 **Currently working on:** AI/ML systems, full-stack product builds, and developer-facing automation workflows
-- 🤝 **Open to:** Full-time Roles
+🔭 **Currently working on:** 
+- Developing a **real-time edge-AI library** on Nvidia Jetson for Weather-Invariant Aerodynamic Sampling System for Automated Shipping Container Inspection (Capstone Project)
+- A product to track student attendance in large classes reliably and in a fool-proof manner, and automated trends (Software Studio) 
+- Coming up: Cloud Computing & IoT project
 
 ## 🚀 What I Love Working With
 
-- Edge AI and applied ML (benchmarking, fine-tuning, inference optimization)
-- Full-stack product development from idea to deployment
-- System design for scalable, maintainable software
-- Turning user and business requirements into production-ready features
+- Applied AI R&D across Language, Vision, and Audio domains (Multimodal)
+- Backend and Systems Engineering 
+- Edge AI and IoT Applications
 
 ## 🛠️ Work Experiences
 
 <table>
 	<tr>
-		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Work+Image+1" alt="Work 1 placeholder" />
+		<td width="35%" valign="top">
+			<img src="./stengg_logo.png" alt="Work 1 placeholder" width="100%" />
+		</td>
+		<td width="65%" valign="top">
 			<h3><strong>AI/ML Engineering Intern</strong></h3>
 			<h4>ST Engineering (Advanced Networks and Sensors)</h4>
 			<p><strong>Period:</strong> Jun 2026 – Sep 2026</p>
-			<p>Built a unified VLM benchmarking + edge inference workflow, with profiling across accuracy, throughput, TTFT, and memory usage.</p>
 		</td>
-		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Work+Image+2" alt="Work 2 placeholder" />
+	</tr>
+	<tr>
+		<td width="35%" valign="top">
+			<img src="./panasonic_logo.jpeg" alt="Work 2 placeholder" width="100%" />
+		</td>
+		<td width="65%" valign="top">
 			<h3><strong>Deep Learning Research Intern</strong></h3>
 			<h4>Panasonic R&amp;D Center Singapore</h4>
 			<p><strong>Period:</strong> Sep 2025 – Jan 2026</p>
-			<p>Researched and optimized video augmentation/super-resolution models for edge deployment with quantization and hardware-aware validation.</p>
 		</td>
-		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Work+Image+3" alt="Work 3 placeholder" />
+	</tr>
+	<tr>
+		<td width="35%" valign="top">
+			<img src="./nexswap_logo.jpeg" alt="Work 3 pylaceholder" width="100%" />
+		</td>
+		<td width="65%" valign="top">
 			<h3><strong>IoT &amp; Embedded Software Intern</strong></h3>
 			<h4>NexSwap</h4>
 			<p><strong>Period:</strong> Feb 2025 – Apr 2025</p>
-			<p>Built decentralized Bluetooth networking on ESP32 with UUID multiplexing and RSSI-based filtering for scalable event-device communication.</p>
 		</td>
 	</tr>
 </table>
@@ -53,59 +61,48 @@ I’m a Computer Science and Design undergraduate at **SUTD** (Class of 2027), f
 	<tr>
 		<td width="33%" valign="top">
 			<img src="https://placehold.co/600x320?text=Add+Project+Image+1" alt="Project 1 placeholder" />
-			<h3>Project 1</h3>
-			<p><strong>Type:</strong> Academic Full-Stack Project</p>
-			<p><strong>Stack:</strong> React, TypeScript, Node.js, Express.js, MongoDB</p>
-			<p>Desc</p>
+			<h3>Regulium-Z</h3>
+			<p><strong>Type:</strong> AI-Assisted Compliance Checker Web App</p>
+			<p><strong>Stack:</strong> React, TypeScript, Tailwind CSS, Node.js, Express.js, OpenRouter, GPT4/Gemini</p>
+			<p>An AI-powered regulatory compliance assistant that matches product features against laws using intelligent relevance filtering, risk assessment, and actionable recommendations. This was a submission for TikTok Techjam 2025.</p>
 		</td>
 		<td width="33%" valign="top">
 			<img src="https://placehold.co/600x320?text=Add+Project+Image+2" alt="Project 2 placeholder" />
-			<h3>Project 2</h3>
-			<p><strong>Type:</strong> Android App Project</p>
-			<p><strong>Stack:</strong> Java, Firebase, MVVM, Figma</p>
-			<p>Desc</p>
+			<h3>HotelEase</h3>
+			<p><strong>Type:</strong> Full-Stack Hotel Booking Platform</p>
+			<p><strong>Stack:</strong> React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Stripe</p>
+			<p>A hotel booking web app with destination search, room selection, secure payments, JWT authentication, and a smooth end-to-end booking flow. Made for Ascenda Loyalty.</p>
 		</td>
 		<td width="33%" valign="top">
 			<img src="https://placehold.co/600x320?text=Add+Project+Image+3" alt="Project 3 placeholder" />
-			<h3>Project Tile 3</h3>
-			<p><strong>Status:</strong> Add details</p>
-			<p><strong>Stack:</strong> Add stack</p>
-			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+			<h3>GitGud@Life</h3>
+			<p><strong>Type:</strong> FPGA-based Dual Player Gaming Console</p>
+			<p><strong>Stack:</strong> Lucid HDL, Alchitry Au FPGA, Beta CPU datapath, Digital Logic Design</p>
+			<p>A dual-player strategic game based on cellular automata and propagation, inspired by Conway’s Game of Life. Built on the Alchitry Au FPGA with the Beta CPU datapath and two complementary BRAM modules. I was involved with its UI/UX design, physical console fabrication, electronic design, and hardware assembly.</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="33%" valign="top">
 			<img src="https://placehold.co/600x320?text=Add+Project+Image+4" alt="Project 4 placeholder" />
-			<h3>Project Tile 4</h3>
-			<p><strong>Status:</strong> Add details</p>
-			<p><strong>Stack:</strong> Add stack</p>
-			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+			<h3>Snorelags</h3>
+			<p><strong>Type:</strong> Smart Jetlag Planner Web App</p>
+			<p><strong>Stack:</strong> React, TypeScript, FastAPI, Python, Supabase, Gemini, WeatherAPI</p>
+			<p>A full-stack jetlag recovery planner that generates personalized jet lag and shift-work recovery schedules using AI, and provides weather-aware guidance, daily checklists, and habit tracking. Built for SUTD WhatTheHack 2025.</p>
 		</td>
 		<td width="33%" valign="top">
 			<img src="https://placehold.co/600x320?text=Add+Project+Image+5" alt="Project 5 placeholder" />
-			<h3>Project Tile 5</h3>
-			<p><strong>Status:</strong> Add details</p>
-			<p><strong>Stack:</strong> Add stack</p>
-			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+			<h3>Hostr</h3>
+			<p><strong>Type:</strong> Event Discovery &amp; Management Android App</p>
+			<p><strong>Stack:</strong> Java, XML, Firebase, Glide, PhotoView, CircleImageView, Spotify Jam</p>
+			<p>A peer-to-peer event management and discovery app that helps students organize informal events, track RSVPs, coordinate with friends, share event photos, and boost engagement through social discovery and music integration.</p>
 		</td>
 		<td width="33%" valign="top">
 			<img src="https://placehold.co/600x320?text=Add+Project+Image+6" alt="Project 6 placeholder" />
-			<h3>Project Tile 6</h3>
-			<p><strong>Status:</strong> Add details</p>
-			<p><strong>Stack:</strong> Add stack</p>
-			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
+			<h3>Glowtopia</h3>
+			<p><strong>Type:</strong> IoT-Enabled Interactive Smart Seats</p>
+			<p><strong>Stack:</strong> ESP32, ESP-NOW (for BLE Wireless Communication), IoT Sensors</p>
+			<p>Tangram-styled and shape responsive smart seat prototypes, to transform an underutilised outdoor space at The Oasis at Changi City Point, into a more engaging social area. The seats use distributed sensing and wireless communication to detect user-arranged configurations and synchronously change LED lighting when a predefined shape is formed.</p>
 		</td>
-	</tr>
-	<tr>
-		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+7" alt="Project 7 placeholder" />
-			<h3>Project Tile 7</h3>
-			<p><strong>Status:</strong> Add details</p>
-			<p><strong>Stack:</strong> Add stack</p>
-			<p>Replace this text with a short impact-focused summary (problem, solution, result).</p>
-		</td>
-		<td width="33%" valign="top"></td>
-		<td width="33%" valign="top"></td>
 	</tr>
 </table>
 
