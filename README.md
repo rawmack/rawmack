@@ -25,7 +25,7 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 <table>
 	<tr>
 		<td width="35%" valign="top">
-			<img src="./stengg_logo.png" alt="Work 1 placeholder" width="100%" height="220" style="display:block; object-fit:cover;" />
+			<img src="./stengg_logo.png" alt="Work 1 placeholder" width="100%" height="100" style="display:block; object-fit:cover;" />
 		</td>
 		<td width="65%" valign="top">
 			<h3><strong>AI/ML Engineering Intern</strong></h3>
@@ -35,7 +35,7 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 	</tr>
 	<tr>
 		<td width="35%" valign="top">
-			<img src="./panasonic_logo.jpeg" alt="Work 2 placeholder" width="100%" height="220" style="display:block; object-fit:cover;" />
+			<img src="./panasonic_logo.jpeg" alt="Work 2 placeholder" width="100%" height="100" style="display:block; object-fit:cover;" />
 		</td>
 		<td width="65%" valign="top">
 			<h3><strong>Deep Learning Research Intern</strong></h3>
@@ -45,7 +45,7 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 	</tr>
 	<tr>
 		<td width="35%" valign="top">
-			<img src="./nexswap_logo.jpeg" alt="Work 3 pylaceholder" width="100%" height="220" style="display:block; object-fit:cover;" />
+			<img src="./nexswap_logo.jpeg" alt="Work 3 pylaceholder" width="100%" height="100" style="display:block; object-fit:cover;" />
 		</td>
 		<td width="65%" valign="top">
 			<h3><strong>IoT &amp; Embedded Software Intern</strong></h3>
