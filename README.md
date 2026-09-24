@@ -4,17 +4,15 @@
 
 </div>
 
-## [Caution: This ReadMe is Under Progress]
 ## 💫 About Me
 
 I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI and software systems for real-world use.
 
-🔭 **Currently working on:** 
+**Currently working on:** 
 - Developing a **real-time edge-AI library** on Nvidia Jetson for Weather-Invariant Aerodynamic Sampling System for Automated Shipping Container Inspection (Capstone Project)
 - A product to track student attendance in large classes reliably and in a fool-proof manner, and automated trends (Software Studio) 
-- Coming up: Cloud Computing & IoT project
 
-## 🚀 What I Love Working With
+## 🧑🏻‍💻 What I Love Working With
 
 - Applied AI R&D across Language, Vision, and Audio domains (Multimodal)
 - Backend and Systems Engineering 
@@ -60,21 +58,22 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 <table>
 	<tr>
 		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+1" alt="Project 1 placeholder" />
+			<img src="./regulium-z.png" alt="Regulium-Z project image" />
 			<h3>Regulium-Z</h3>
 			<p><strong>Type:</strong> AI-Assisted Compliance Checker Web App</p>
 			<p><strong>Stack:</strong> React, TypeScript, Tailwind CSS, Node.js, Express.js, OpenRouter, GPT4/Gemini</p>
-			<p>An AI-powered regulatory compliance assistant that matches product features against laws using intelligent relevance filtering, risk assessment, and actionable recommendations. This was a submission for TikTok Techjam 2025.</p>
+			<p>An AI-powered regulatory compliance assistant that matches product features against laws using intelligent relevance filtering, risk assessment, and actionable recommendations. This was a submission for TikTok Techjam 2025.
+			</p>
 		</td>
 		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+2" alt="Project 2 placeholder" />
+			<img src="./hotelease.png" alt="HotelEase project image" />
 			<h3>HotelEase</h3>
 			<p><strong>Type:</strong> Full-Stack Hotel Booking Platform</p>
 			<p><strong>Stack:</strong> React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Stripe</p>
 			<p>A hotel booking web app with destination search, room selection, secure payments, JWT authentication, and a smooth end-to-end booking flow. Made for Ascenda Loyalty.</p>
 		</td>
 		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+3" alt="Project 3 placeholder" />
+			<img src="./gitgud@life.png" alt="GitGud@Life project image" />
 			<h3>GitGud@Life</h3>
 			<p><strong>Type:</strong> FPGA-based Dual Player Gaming Console</p>
 			<p><strong>Stack:</strong> Lucid HDL, Alchitry Au FPGA, Beta CPU datapath, Digital Logic Design</p>
@@ -83,21 +82,21 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 	</tr>
 	<tr>
 		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+4" alt="Project 4 placeholder" />
+			<img src="./snorelags.png" alt="Snorelags project image" />
 			<h3>Snorelags</h3>
 			<p><strong>Type:</strong> Smart Jetlag Planner Web App</p>
 			<p><strong>Stack:</strong> React, TypeScript, FastAPI, Python, Supabase, Gemini, WeatherAPI</p>
 			<p>A full-stack jetlag recovery planner that generates personalized jet lag and shift-work recovery schedules using AI, and provides weather-aware guidance, daily checklists, and habit tracking. Built for SUTD WhatTheHack 2025.</p>
 		</td>
 		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+5" alt="Project 5 placeholder" />
+			<img src="./hostr.png" alt="Project 5 placeholder" />
 			<h3>Hostr</h3>
 			<p><strong>Type:</strong> Event Discovery &amp; Management Android App</p>
 			<p><strong>Stack:</strong> Java, XML, Firebase, Glide, PhotoView, CircleImageView, Spotify Jam</p>
 			<p>A peer-to-peer event management and discovery app that helps students organize informal events, track RSVPs, coordinate with friends, share event photos, and boost engagement through social discovery and music integration.</p>
 		</td>
 		<td width="33%" valign="top">
-			<img src="https://placehold.co/600x320?text=Add+Project+Image+6" alt="Project 6 placeholder" />
+			<img src="./glowtopia.png" alt="Glowtopia project image" />
 			<h3>Glowtopia</h3>
 			<p><strong>Type:</strong> IoT-Enabled Interactive Smart Seats</p>
 			<p><strong>Stack:</strong> ESP32, ESP-NOW (for BLE Wireless Communication), IoT Sensors</p>
@@ -109,11 +108,12 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 ## 💻 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -150,6 +150,6 @@ I’m a Final Year **CS** student @ **SUTD**, focused on building practical AI a
 ## 📫 Contact
 
 - Mobile: **+65 86728925**
-- Email: **1008002@mymail.sutd.edu.sg**
+- Email: **1008002@mymail.sutd.edu.sg** 
 - LinkedIn: **https://www.linkedin.com/in/raj-sikder-a935311a9**
 
