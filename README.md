@@ -9,14 +9,20 @@
 I’m a Final Year **CS** student @ **SUTD**, interested in building AI and software systems for real-world challenging applications, and experimenting with latest technologies to push boundaries of existing solutions :)
 
 **Currently working on:** 
-- Developing a **real-time edge-AI library** on Nvidia Jetson for Weather-Invariant Aerodynamic Sampling System for Automated Shipping Container Inspection (Capstone Project)
-- A reliable, fool-proof **attendance tracking system** for large classes, with automated trend analysis (Software Studio) 
+- Developing a **real-time signal processing library** for environmental drift compensation in an Aerodynamic Smell Sampling System, which will be used towards drone based Automated Shipping Container Inspection (Capstone Project)
+- **Attend**: An NFC-based **attendance tracking and management system** for large classes
+- **Shelfie**: An IoT driven serverless **retail shelf monitoring system** that uses activity triggered image capture and computer vision to detect stockouts, while delivering real-time alerts to retail staff
 
 ## 🧑🏻‍💻 What I Love Working With
 
 - Applied AI R&D across multimodal domains (Language, Vision, Audio, and Action)
 - Backend and Systems Engineering 
 - Edge AI and IoT Applications
+
+## Currently Looking For
+
+- Part-Time Internship and Research Opportunities
+- Full-Time Opportunities in AI/ML Engineering, Algorithm Engineering, and Software Engineering
 
 ## 🛠️ Work Experiences
 
